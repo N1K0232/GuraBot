@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "GuraDiscordBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AccessToken": "T1RjeU5EQTNNVE15TkRVNE56RTNNakUwLlluWW10Zy5yQTlaWTdnYWp1UlBqZXExLVo5eGJaTVZRVlE=",
+        "PermissionsInteger": "1255674473718"
+      }
+    }
+  }
+}
